@@ -1,14 +1,6 @@
 ### Hi, I'm Jorge 👋
 
 
-## 📫 How to reach me
-<a href="https://www.linkedin.com/in/jorge-al%C3%ADa-toledo/">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:jorgealia94@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 ## My Frontend Stack
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,6 +35,13 @@
 [![Jorgealia8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgealia8)](https://github.com/Jorgealia8/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgealia8&layout=compact)](https://github.com/Jorgealia8/github-readme-stats)
 
+## 📫 How to reach me
+<a href="https://www.linkedin.com/in/jorge-al%C3%ADa-toledo/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jorgealia94@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
 <!--
