@@ -1,10 +1,5 @@
 ### Hi, I'm Jorge 👋
 
-## Some background information about myself
-- ⚡ I'm an Full Stack Web Developer and I'm learning everything I can about programming.
-- 👯 I’m looking to collaborate on cool projects!
-- 🏄 Surfing is my favorite sport
-- 🎵 I love music, and I play the guitar
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/jorge-al%C3%ADa-toledo/">
