@@ -34,7 +34,6 @@
 ## My Github Stats
 [![Jorgealia8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgealia8)](https://github.com/Jorgealia8/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgealia8&layout=compact)](https://github.com/Jorgealia8/github-readme-stats)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Jorgealia-25.Jorgealia-25) <br>
 
 ## 📫 Contact me
 <a href="https://www.linkedin.com/in/jorge-al%C3%ADa-toledo/">
