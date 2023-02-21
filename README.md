@@ -31,6 +31,8 @@ I'm a Full Stack Developer in constant learning.
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+
+## My Github Stats
 <div align="left" style="display: inline_block">
   <a href="https://github.com/Jorgealia8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorgealia8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
