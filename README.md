@@ -32,7 +32,7 @@ I'm a Full Stack Developer in constant learning.
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📫 Contact me
-<a href="https://www.linkedin.com/in/jorge-al%C3%ADa-toledo/">
+<a href="https://www.linkedin.com/in/jorge-alia-toledo/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:jorgealia94@gmail.com">
