@@ -1,6 +1,6 @@
 ### Hi, I'm Jorge 👋
 
-I'm a Full Stack Developer in constant learning.
+I'm a constantly learning Full Stack Developer.
 
 ## My Frontend Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
